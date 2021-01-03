@@ -1,0 +1,15 @@
+2021/01/03-14:30:16.859 b903 Reusing MANIFEST /Users/geronimoalonso/Desktop/whatasppbot/driver/data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/03-14:30:16.859 b903 Recovering log #4
+2021/01/03-14:30:16.880 b903 Reusing old log /Users/geronimoalonso/Desktop/whatasppbot/driver/data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000004.log 
+2021/01/03-14:32:02.206 6803 Level-0 table #8: started
+2021/01/03-14:32:02.227 6803 Level-0 table #8: 391913 bytes OK
+2021/01/03-14:32:02.241 6803 Delete type=0 #4
+2021/01/03-14:32:02.241 6803 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/03-14:32:02.241 6803 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x04\x00w\x00a\x00w\x00c' @ 4696 : 1
+2021/01/03-14:32:02.241 6803 Compacting 1@1 + 1@2 files
+2021/01/03-14:32:02.268 6803 Generated table #9@1: 5116 keys, 206830 bytes
+2021/01/03-14:32:02.268 6803 Compacted 1@1 + 1@2 files => 206830 bytes
+2021/01/03-14:32:02.277 6803 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/03-14:32:02.278 6803 Delete type=2 #5
+2021/01/03-14:32:02.278 6803 Delete type=2 #8
+2021/01/03-14:32:02.281 6803 Manual compaction at level-1 from '\x00\x04\x01\x02\x01\x04\x00w\x00a\x00w\x00c' @ 4696 : 1 .. (end); will stop at (end)

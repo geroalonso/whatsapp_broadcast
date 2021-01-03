@@ -1,0 +1,1 @@
+CHROME_PROFILE_PATH = "user-data-dir = Users/Geronimo Alonso/Library/Application Support/Google/Chrome/Whatsapp"

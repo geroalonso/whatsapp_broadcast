@@ -1,0 +1,5 @@
+2021/01/03-15:29:39.911 db03 Reusing MANIFEST /Users/geronimoalonso/Desktop/whatasppbot/driver/data/Default/Local Storage/leveldb/MANIFEST-000001
+2021/01/03-15:29:39.912 db03 Recovering log #3
+2021/01/03-15:29:39.912 db03 Level-0 table #3: started
+2021/01/03-15:29:39.929 db03 Level-0 table #3: 35112 bytes OK
+2021/01/03-15:29:39.944 db03 Delete type=0 #3
